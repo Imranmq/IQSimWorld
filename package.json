@@ -1,0 +1,16 @@
+{
+  "name": "somethingfun",
+  "version": "0.0.1",
+  "description": "Something fun ",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Imran Qureshi",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
